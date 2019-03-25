@@ -1,4 +1,6 @@
-# GFW-is-Great
+# GFW-is-Great! Why must we have GFW (Great Fire Wall) in China? 
+# 为什么我们国家必须要有墙，为什么我们一定要屏蔽谷歌，为什么我们要打击违法VPN！
+
 Why must we have GFW (Great Fire Wall) in China? Why do we have to block Google outside? Why do we have to ban illegal VPN services?!
 
 有些人总是有疑问，为什么我们中国的互联网有GFW防火墙？
