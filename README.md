@@ -23,11 +23,9 @@ Now it’s the time. Let us tell you why our country must have GFW, why we must 
 
 There is always a view in the Western dominated cyberspace that internet should be free (information freedom) and there shouldn’t be any walls. They think that our Chinese government is evil to build the GFW. They assume our government is a tyrannical dictator and the GFW is used to fool the people and monitoring the people like the 1984. So they always shake us, they want us to overthrow the government, and they want us to cross the GFW to read what they want to say.
 
-实在是看不惯这些智障言论了！让我们来告诉你为什么我们国家要有GFW（Great FIre Wall）防火墙，为什么我们要屏蔽谷歌，为什么我们要打击违法VPN！
+# 实在是看不惯这些智障言论了！让我们来告诉你为什么我们国家要有GFW（Great FIre Wall）防火墙，为什么我们要屏蔽谷歌，为什么我们要打击违法VPN！
 
-THESE VIEWS ARE COMPLETELY WRONG!!
-
-WE ARE REALLY FED UP BY THOUSE STUPID SPEECHES!!
+# THESE VIEWS ARE COMPLETELY WRONG!! WE ARE REALLY FED UP BY THOUSE STUPID SPEECHES!!
 
 Let us tell you why our country has a GFW (Great Fire Wall) firewall, why do we want to block Google, why do we want to crack down on illegal VPNs!
 
